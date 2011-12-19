@@ -58,3 +58,23 @@ Stack trace:
 #15 /Volumes/Development/Sites/testdrive/framework/base/CApplication.php(158): CWebApplication->processRequest()
 #16 /Volumes/Development/Sites/testdrive/index.php(12): CApplication->run()
 #17 {main} REQUEST_URI=/testdrive/index.php?r=site/contact
+2011/12/19 10:29:20 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/Volumes/Development/Sites/addressBookYii/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /Volumes/Development/Sites/addressBookYii/framework/web/CAssetManager.php:112
+Stack trace:
+#0 /Volumes/Development/Sites/addressBookYii/framework/web/CAssetManager.php(97): CAssetManager->setBasePath('/Volumes/Develo...')
+#1 /Volumes/Development/Sites/addressBookYii/framework/web/CAssetManager.php(207): CAssetManager->getBasePath()
+#2 /Volumes/Development/Sites/addressBookYii/framework/web/CClientScript.php(453): CAssetManager->publish('/Volumes/Develo...')
+#3 /Volumes/Development/Sites/addressBookYii/framework/web/CClientScript.php(490): CClientScript->getCoreScriptUrl()
+#4 /Volumes/Development/Sites/addressBookYii/framework/web/CClientScript.php(306): CClientScript->getPackageBaseUrl('jquery')
+#5 /Volumes/Development/Sites/addressBookYii/framework/web/CClientScript.php(197): CClientScript->renderCoreScripts()
+#6 /Volumes/Development/Sites/addressBookYii/framework/web/CController.php(343): CClientScript->render('<!DOCTYPE html ...')
+#7 /Volumes/Development/Sites/addressBookYii/framework/web/CController.php(785): CController->processOutput('<!DOCTYPE html ...')
+#8 /Volumes/Development/Sites/addressBookYii/protected/controllers/SiteController.php(32): CController->render('index')
+#9 /Volumes/Development/Sites/addressBookYii/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#10 /Volumes/Development/Sites/addressBookYii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#11 /Volumes/Development/Sites/addressBookYii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#12 /Volumes/Development/Sites/addressBookYii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /Volumes/Development/Sites/addressBookYii/framework/web/CWebApplication.php(277): CController->run('')
+#14 /Volumes/Development/Sites/addressBookYii/framework/web/CWebApplication.php(136): CWebApplication->runController('')
+#15 /Volumes/Development/Sites/addressBookYii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#16 /Volumes/Development/Sites/addressBookYii/index.php(12): CApplication->run()
+#17 {main} REQUEST_URI=/addressBookYii/
