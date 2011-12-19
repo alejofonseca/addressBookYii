@@ -4,7 +4,11 @@ Yii::app()->clientScript->registerCoreScript('jquery');
 
 Yii::app()->clientScript->registerScript('helloscript',"
         $('#login').click(function(){
+<<<<<<< HEAD
         	alert('jindex');
+=======
+        	alert('jindex seriously');
+>>>>>>> jindex
         });
     ",CClientScript::POS_READY);
 ?>
