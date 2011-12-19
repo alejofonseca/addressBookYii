@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/subversion/prueba1/!svn/ver/12/trunk/addressBookYii/protected/config
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/prueba1/!svn/ver/12/trunk/addressBookYii/protected/config/console.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/prueba1/!svn/ver/12/trunk/addressBookYii/protected/config/main.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/prueba1/!svn/ver/12/trunk/addressBookYii/protected/config/test.php
+END
