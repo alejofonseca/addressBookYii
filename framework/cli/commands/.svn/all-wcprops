@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/commands
+END
+ShellCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/commands/ShellCommand.php
+END
+WebAppCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/commands/WebAppCommand.php
+END
+MigrateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/commands/MigrateCommand.php
+END
+MessageCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/commands/MessageCommand.php
+END

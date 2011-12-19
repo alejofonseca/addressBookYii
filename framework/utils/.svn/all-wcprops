@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/subversion/prueba1/!svn/ver/21/trunk/addressBookYii/framework/utils
+END
+CFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/prueba1/!svn/ver/22/trunk/addressBookYii/framework/utils/CFormatter.php
+END
+CPropertyValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/prueba1/!svn/ver/22/trunk/addressBookYii/framework/utils/CPropertyValue.php
+END
+CDateTimeParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/21/trunk/addressBookYii/framework/utils/CDateTimeParser.php
+END
+CFileHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/22/trunk/addressBookYii/framework/utils/CFileHelper.php
+END
+CMarkdownParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/22/trunk/addressBookYii/framework/utils/CMarkdownParser.php
+END
+CTimestamp.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/prueba1/!svn/ver/22/trunk/addressBookYii/framework/utils/CTimestamp.php
+END
+CVarDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/prueba1/!svn/ver/22/trunk/addressBookYii/framework/utils/CVarDumper.php
+END
+mimeTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/prueba1/!svn/ver/22/trunk/addressBookYii/framework/utils/mimeTypes.php
+END

@@ -1,0 +1,44 @@
+10
+
+dir
+24
+https://alejandrosvn.myversioncontrol.com/subversion/prueba1/trunk/addressBookYii/framework/zii/widgets/assets
+https://alejandrosvn.myversioncontrol.com/subversion/prueba1
+
+
+
+2011-12-19T03:17:19.141473Z
+24
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f960d719-3bf7-43bd-8054-e5a963cf2e08
+
+
+
+
+
+
+0
+
+detailview
+dir
+
+gridview
+dir
+
+listview
+dir
+

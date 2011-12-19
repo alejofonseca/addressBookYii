@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections
+END
+CAttributeCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CAttributeCollection.php
+END
+CMapIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CMapIterator.php
+END
+CMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CMap.php
+END
+CQueueIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CQueueIterator.php
+END
+CQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CQueue.php
+END
+CListIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CListIterator.php
+END
+CList.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CList.php
+END
+CConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CConfiguration.php
+END
+CStackIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CStackIterator.php
+END
+CStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CStack.php
+END
+CTypedList.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CTypedList.php
+END
+CTypedMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/collections/CTypedMap.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/oci
+END
+COciColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/oci/COciColumnSchema.php
+END
+COciTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/oci/COciTableSchema.php
+END
+COciCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/oci/COciCommandBuilder.php
+END
+COciSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/oci/COciSchema.php
+END

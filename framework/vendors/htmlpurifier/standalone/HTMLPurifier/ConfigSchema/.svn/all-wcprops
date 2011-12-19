@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema
+END
+schema.ser
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema.ser
+END
+Interchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Interchange.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Exception.php
+END
+InterchangeBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/InterchangeBuilder.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Validator.php
+END
+ValidatorAtom.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/ValidatorAtom.php
+END

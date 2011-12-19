@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/console
+END
+CConsoleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/console/CConsoleCommand.php
+END
+CConsoleCommandRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/console/CConsoleCommandRunner.php
+END
+CHelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/console/CHelpCommand.php
+END
+CConsoleApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/console/CConsoleApplication.php
+END

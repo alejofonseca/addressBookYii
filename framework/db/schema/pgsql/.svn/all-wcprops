@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/pgsql
+END
+CPgsqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/pgsql/CPgsqlColumnSchema.php
+END
+CPgsqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/pgsql/CPgsqlTableSchema.php
+END
+CPgsqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/pgsql/CPgsqlSchema.php
+END

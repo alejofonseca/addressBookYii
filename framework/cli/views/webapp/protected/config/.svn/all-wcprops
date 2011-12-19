@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/webapp/protected/config
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/webapp/protected/config/console.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/webapp/protected/config/main.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/webapp/protected/config/test.php
+END

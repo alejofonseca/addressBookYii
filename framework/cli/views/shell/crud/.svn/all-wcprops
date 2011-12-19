@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/_search.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/update.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/controller.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/create.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/admin.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/index.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/test.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/_form.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/crud/view.php
+END

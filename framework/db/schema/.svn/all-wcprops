@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema
+END
+CDbColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/CDbColumnSchema.php
+END
+CDbExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/CDbExpression.php
+END
+CDbTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/CDbTableSchema.php
+END
+CDbCriteria.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/CDbCriteria.php
+END
+CDbCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/CDbCommandBuilder.php
+END
+CDbSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/CDbSchema.php
+END

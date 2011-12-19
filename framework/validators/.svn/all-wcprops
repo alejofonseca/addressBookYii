@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators
+END
+CInlineValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CInlineValidator.php
+END
+CFilterValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CFilterValidator.php
+END
+CRangeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CRangeValidator.php
+END
+CEmailValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CEmailValidator.php
+END
+CCaptchaValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CCaptchaValidator.php
+END
+CExistValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CExistValidator.php
+END
+CStringValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CStringValidator.php
+END
+CUniqueValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CUniqueValidator.php
+END
+CDefaultValueValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CDefaultValueValidator.php
+END
+CDateValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CDateValidator.php
+END
+CRegularExpressionValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CRegularExpressionValidator.php
+END
+CSafeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CSafeValidator.php
+END
+CNumberValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CNumberValidator.php
+END
+CUrlValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CUrlValidator.php
+END
+CUnsafeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CUnsafeValidator.php
+END
+CBooleanValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CBooleanValidator.php
+END
+CValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CValidator.php
+END
+CCompareValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CCompareValidator.php
+END
+CRequiredValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CRequiredValidator.php
+END
+CFileValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CFileValidator.php
+END
+CTypeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/19/trunk/addressBookYii/framework/validators/CTypeValidator.php
+END

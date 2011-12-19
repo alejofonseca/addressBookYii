@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching
+END
+CEAcceleratorCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CEAcceleratorCache.php
+END
+CWinCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CWinCache.php
+END
+CDummyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CDummyCache.php
+END
+CXCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CXCache.php
+END
+CCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CCache.php
+END
+CMemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CMemCache.php
+END
+CApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CApcCache.php
+END
+CDbCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CDbCache.php
+END
+CFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CFileCache.php
+END
+CZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/prueba1/!svn/ver/15/trunk/addressBookYii/framework/caching/CZendDataCache.php
+END

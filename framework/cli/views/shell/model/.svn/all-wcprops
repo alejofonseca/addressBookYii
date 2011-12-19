@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/model
+END
+fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/model/fixture.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/model/model.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/cli/views/shell/model/test.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/prueba1/!svn/ver/18/trunk/addressBookYii/framework/web/renderers
+END
+CViewRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/18/trunk/addressBookYii/framework/web/renderers/CViewRenderer.php
+END
+CPradoViewRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/prueba1/!svn/ver/18/trunk/addressBookYii/framework/web/renderers/CPradoViewRenderer.php
+END

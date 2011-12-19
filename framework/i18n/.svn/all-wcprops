@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n
+END
+CDateFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n/CDateFormatter.php
+END
+CChoiceFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n/CChoiceFormat.php
+END
+CLocale.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n/CLocale.php
+END
+CPhpMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n/CPhpMessageSource.php
+END
+CNumberFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n/CNumberFormatter.php
+END
+CMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n/CMessageSource.php
+END
+CDbMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n/CDbMessageSource.php
+END
+CGettextMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/i18n/CGettextMessageSource.php
+END

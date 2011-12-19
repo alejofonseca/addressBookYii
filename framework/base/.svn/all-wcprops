@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base
+END
+CModelBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CModelBehavior.php
+END
+CComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CComponent.php
+END
+interfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/interfaces.php
+END
+CHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CHttpException.php
+END
+CErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CErrorHandler.php
+END
+CModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CModel.php
+END
+CSecurityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CSecurityManager.php
+END
+CException.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CException.php
+END
+CApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CApplication.php
+END
+CExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CExceptionEvent.php
+END
+CModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CModule.php
+END
+CApplicationComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CApplicationComponent.php
+END
+CStatePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CStatePersister.php
+END
+CModelEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CModelEvent.php
+END
+CBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CBehavior.php
+END
+CErrorEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/prueba1/!svn/ver/14/trunk/addressBookYii/framework/base/CErrorEvent.php
+END

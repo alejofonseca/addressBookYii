@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/mssql
+END
+CMssqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/mssql/CMssqlSchema.php
+END
+CMssqlPdoAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/mssql/CMssqlPdoAdapter.php
+END
+CMssqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/mssql/CMssqlTableSchema.php
+END
+CMssqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/mssql/CMssqlColumnSchema.php
+END
+CMssqlCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/schema/mssql/CMssqlCommandBuilder.php
+END

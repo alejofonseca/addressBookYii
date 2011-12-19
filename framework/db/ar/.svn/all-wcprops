@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/ar
+END
+CActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/ar/CActiveRecord.php
+END
+CActiveRecordBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/ar/CActiveRecordBehavior.php
+END
+CActiveFinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/16/trunk/addressBookYii/framework/db/ar/CActiveFinder.php
+END

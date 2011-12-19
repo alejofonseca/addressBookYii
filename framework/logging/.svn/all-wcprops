@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging
+END
+CDbLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CDbLogRoute.php
+END
+CWebLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CWebLogRoute.php
+END
+CLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CLogRoute.php
+END
+CLogFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CLogFilter.php
+END
+CLogRouter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CLogRouter.php
+END
+CProfileLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CProfileLogRoute.php
+END
+CEmailLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CEmailLogRoute.php
+END
+CLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CLogger.php
+END
+CFileLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/17/trunk/addressBookYii/framework/logging/CFileLogRoute.php
+END

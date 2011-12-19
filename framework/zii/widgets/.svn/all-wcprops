@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/prueba1/!svn/ver/24/trunk/addressBookYii/framework/zii/widgets
+END
+CListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/prueba1/!svn/ver/24/trunk/addressBookYii/framework/zii/widgets/CListView.php
+END
+CBaseListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/prueba1/!svn/ver/24/trunk/addressBookYii/framework/zii/widgets/CBaseListView.php
+END
+CPortlet.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/prueba1/!svn/ver/24/trunk/addressBookYii/framework/zii/widgets/CPortlet.php
+END
+CDetailView.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/prueba1/!svn/ver/24/trunk/addressBookYii/framework/zii/widgets/CDetailView.php
+END
+CBreadcrumbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/prueba1/!svn/ver/24/trunk/addressBookYii/framework/zii/widgets/CBreadcrumbs.php
+END
+CMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/prueba1/!svn/ver/24/trunk/addressBookYii/framework/zii/widgets/CMenu.php
+END
